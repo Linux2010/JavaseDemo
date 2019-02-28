@@ -1,4 +1,4 @@
-package cn.com.yusys.myproject.FieldAndMethodTest;
+package cn.com.yusys.FieldAndMethodTest;
 
 public class FieldAndMethodTest {
     public static void main(String[] args) {

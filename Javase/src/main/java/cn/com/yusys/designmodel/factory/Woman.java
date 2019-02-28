@@ -1,4 +1,4 @@
-package cn.com.yusys.myproject.designmodel.factory;
+package cn.com.yusys.designmodel.factory;
 
 /**
  * @author Tianfusheng

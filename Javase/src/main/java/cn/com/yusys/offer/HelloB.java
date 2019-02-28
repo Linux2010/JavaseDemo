@@ -1,4 +1,4 @@
-package cn.com.yusys.myproject.offer;
+package cn.com.yusys.offer;
 
 /**
  * @author Tianfusheng

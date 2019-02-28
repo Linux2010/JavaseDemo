@@ -1,4 +1,4 @@
-package cn.com.yusys.myproject.staticTest;
+package cn.com.yusys.staticTest;
 
 public class Student {
     private static String name;

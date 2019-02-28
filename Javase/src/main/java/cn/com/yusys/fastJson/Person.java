@@ -1,4 +1,4 @@
-package cn.com.yusys.myproject.fastJson;
+package cn.com.yusys.fastJson;
 
 /**
  * @author 94946

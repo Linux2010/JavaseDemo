@@ -1,4 +1,4 @@
-package cn.com.yusys.myproject.designmodel.singleton;
+package cn.com.yusys.designmodel.singleton;
 
 /**
  * @author Tianfusheng

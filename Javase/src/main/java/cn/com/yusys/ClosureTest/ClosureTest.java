@@ -1,4 +1,4 @@
-package cn.com.yusys.myproject.ClosureTest;
+package cn.com.yusys.ClosureTest;
 
 /**
  * 匿名内部类，多线程

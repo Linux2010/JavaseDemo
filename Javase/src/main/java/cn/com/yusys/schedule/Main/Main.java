@@ -1,4 +1,4 @@
-package cn.com.yusys.myproject.schedule.Main;
+package cn.com.yusys.schedule.Main;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
